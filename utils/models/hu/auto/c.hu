@@ -1,0 +1,11 @@
+NDIM = 4, IPS =   1, IRS =   0, ILP =   1
+ICP =  []
+unames = {1: "V", 2: "H", 3: "N", 4: "NBIS"}
+parnames = {1: "IAPP", 2: "GNATOT", 3: "PNAV11", 4: "GK", 5: "GL", 6: "ENA", 7: "EK", 8: "SHIFTV", 9: "TEMP", 10: "SHIFTM"}
+NTST=  1000, NCOL=   4, IAD =   3, ISP =  2, ISW = 1, IPLT= 0, NBC= 0, NINT= 0
+NMX=  50000, NPR=  1000, MXBF=  10, IID =   3, ITMX= 8, ITNW= 5, NWTN= 3, JAC= 0
+EPSL= 1e-8, EPSU = 1e-8, EPSS = 1e-6
+DS  =  1e-2, DSMIN= 1e-4, DSMAX= 1, IADS=   1
+NPAR = 10, THL =  {}, THU =  {}
+UZR = {}, UZSTOP = {}
+

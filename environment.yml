@@ -1,0 +1,15 @@
+name: slow-nav-inactivation-in-dravet-syndrome
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - python
+  - matplotlib
+  - numpy
+  - scipy
+  - pip
+  - ipympl
+  - pip:
+      - git+https://github.com/auto-07p/auto-07p
+      - drawarrow
+
