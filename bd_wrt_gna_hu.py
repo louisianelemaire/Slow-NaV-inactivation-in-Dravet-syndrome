@@ -42,4 +42,4 @@ def compute_bd(i_app_val):
 
     # actual run
     auto_helper.run(filename=f"branch_lc_wrt_gnatot_i_app_{i_app_val}", auto_dir=auto_dir, output_dir="wt", e=model_name, c=model_name,
-                s=f"branch_lc_wrt_gnatot_i_app_{i_app_val}_dummy", IRS="EP1", ICP=["GNATOT", "PERIOD"], UZSTOP={"GNATOT": [0, g_na_max], "PERIOD": 400}, IPLT=-1, IPS=2, STOP=["BP1", "LP10"])
+                s=f"branch_lc_wrt_gnatot_i_app_{i_app_val}_dummy", IRS="EP1", ICP=["GNATOT", "PERIOD"], UZSTOP={"GNATOT": [0, g_na_max], "PERIOD": 400}, IPLT=-1, IPS=2, STOP=["BP1", "LP10"], NPR=1)
