@@ -7,14 +7,14 @@ Louisiane Lemaire, Mathieu Desroches, Serafim Rodrigues, Fabien Campillo. Depola
 
 ## How to use
 
-1. Clone this repository
+1. Clone this repository.
 
 2. Create a virtual environment with the dependencies.
 ```commandline
 conda env create -f environment.yml
 ```
 
-3. Activate the environment and start the jupyter notebook server
+3. Activate the environment and start the jupyter notebook server.
 ```commandline
 conda activate slow-nav-inactivation-in-dravet-syndrome
 jupyter notebook
