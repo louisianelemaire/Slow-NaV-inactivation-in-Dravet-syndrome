@@ -1,7 +1,9 @@
-This repository contains the code to reproduce the figures of the manuscript "Depolarization block induction via slow ${\rm Na}_{\rm V}1.1$ inactivation in Dravet syndrome".
+This repository contains the code to generate the figures of the manuscript:
+Louisiane Lemaire, Mathieu Desroches, Serafim Rodrigues, Fabien Campillo. [Depolarization block induction via slow ${\rm Na}_{\rm V}1.1$ inactivation in Dravet syndrome](https://arxiv.org/abs/2505.03919), 2025.
 
 ## Prerequisites
-Anaconda or Miniconda. Alternatively, you may install the dependencies using any method you prefer (see what is needed in [environment.yml](environment.yml)).
+- The continuation software [AUTO-07p](https://github.com/auto-07p/auto-07p)
+- Anaconda or Miniconda. Alternatively, you may install the dependencies using any method you prefer (see what is needed in [environment.yml](environment.yml)).
 
 ## How to use
 
