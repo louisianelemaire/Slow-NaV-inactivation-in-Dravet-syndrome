@@ -1,5 +1,5 @@
 This repository contains the code to generate the figures of the manuscript:
-Louisiane Lemaire, Mathieu Desroches, Serafim Rodrigues, Fabien Campillo. Depolarization block induction via slow Na<sub>V</sub>1.1 inactivation in Dravet syndrome, [arXiv](https://arxiv.org/abs/2505.03919), 2025.
+Louisiane Lemaire, Mathieu Desroches, Serafim Rodrigues, Fabien Campillo. [Depolarization block induction via slow Na<sub>V</sub>1.1 inactivation in Dravet syndrome](https://www.nature.com/articles/s41598-025-17468-2), Scientific Reports 15 (1), 32749, 2025.
 
 ## Prerequisites
 - The continuation software [AUTO-07p](https://github.com/auto-07p/auto-07p).
